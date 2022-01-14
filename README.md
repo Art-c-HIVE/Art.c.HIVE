@@ -6,12 +6,13 @@ The first realease is expected in the 1Q 2022
 
 The application is already testing on real case scenario on an archive with more than 7000 videos of video art and conferences in the Italian art organization Careof.
 
-The project has been developed to transition the old Careof archive to a new opensource system and has been founded by Fondazione Cariplo.
+Originally the project was developed to transition the old Careof archive to a new opensource system and has been founded by Fondazione Cariplo.
 
-Main features.
-Full database to manage different scenarios specific to archival preservation of digital or digitalized artworks
-Auto conversion of video files by the server in different formats for archival, delivery, proxies/streaming
-fully scalable: the architecture of Art.c.HIVE is fully scalable to be used in different scenarios, from a local server or a load-balanced cloud server.
+Main features:
+	Full database to manage different scenarios specific to archival preservation of digital or digitalized artworks.
+	Auto conversion of video files by the server in different formats for archival, delivery, proxies/streaming.
+	Fully scalable: the architecture of Art.c.HIVE is fully scalable to be used in different scenarios, from a local server or a load-balanced cloud server.
+	And more.
 
 Migration managers: Lia Manzella for Careof and Federica Scarpellini for Memory Slash Vision studios
 Infrastructure manager, coding, conversion, and maintenance : Memory Slash Vision studios, external consultancy for SQL by Diego Capasso
