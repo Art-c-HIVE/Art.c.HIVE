@@ -1,8 +1,8 @@
 # Art.c.HIVE
-Art.c.HIVE means art conservation hive,
+Art.c.HIVE means: art conservation hive,
 is an application that has as its objective the conservation and preservation of digital artworks or the digitized version of artworks. Especially in the conservation of video art artworks.
 
-The first realease is expected in the 1Q 2022
+The first release is expected in the 1Q 2022
 
 The application is already testing on real case scenario on an archive with more than 7000 videos of video art and conferences in the Italian art organization Careof.
 
